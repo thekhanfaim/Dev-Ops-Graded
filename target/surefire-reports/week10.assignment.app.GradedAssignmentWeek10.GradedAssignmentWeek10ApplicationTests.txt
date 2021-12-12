@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: week10.assignment.app.GradedAssignmentWeek10.GradedAssignmentWeek10ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.597 s - in week10.assignment.app.GradedAssignmentWeek10.GradedAssignmentWeek10ApplicationTests
